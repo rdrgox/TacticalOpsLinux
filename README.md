@@ -7,6 +7,8 @@ chmod +x tactical_ops_3.5_linux.run
 ./tactical_ops_v469d_linux.sh
 ```
 
+[![asciicast](https://asciinema.org/a/xhfglIUBGzgDSrfiT0gV87gJj.svg)](https://asciinema.org/a/xhfglIUBGzgDSrfiT0gV87gJj)
+
 ## Troubleshooting
 
 Open: nano TacticalOps.ini
@@ -35,10 +37,6 @@ RenderDevice=XOpenGLDrv.XOpenGLRenderDevice
 [WinDrv.WindowsClient]
 StartupFullscreen=False
 ```
-
-## Script
-
-[![asciicast](https://asciinema.org/a/xhfglIUBGzgDSrfiT0gV87gJj.svg)](https://asciinema.org/a/xhfglIUBGzgDSrfiT0gV87gJj)
 
 ## Support
 
