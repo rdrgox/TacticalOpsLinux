@@ -4,7 +4,7 @@ Script created using TO-Fixed-Pack-v469d.7z and TOFP-LinuxFiles.zip to automate 
 
 ```bash
 chmod +x tactical_ops_3.5_linux.run
-./tactical_ops_v469d_linux.sh
+./tactical_ops_3.5_linux.run
 ```
 
 ## Troubleshooting
